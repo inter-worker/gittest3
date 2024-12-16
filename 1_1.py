@@ -1,0 +1,2 @@
+d = 'wdwdcwcwecwec'
+print(d)
